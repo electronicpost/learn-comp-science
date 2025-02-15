@@ -4,6 +4,8 @@
 
 ## Learning for Computer Science
 
+Intro.
+
 *The steps within this guide are all within an environment that was previously installed and covered in a previous video and guide.*
 
 ## Git Example
